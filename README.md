@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Creept21 
-- 👀 I’m interested in web developing.
-- 🌱 I’m currently not currently learning anything.
+- 👀 I’m interested AI and MI, Java development and Game Dev.
+- 🌱 I'm currently a 2nd year Computer Science Student.
 - 📫 My discord - creept#0080
 
 <!---
